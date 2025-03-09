@@ -64,4 +64,15 @@ The future of digital construction lies in the intelligent reuse of materials, a
 
 ![SW-09-2048x717](https://github.com/user-attachments/assets/568099fd-b34e-4e1a-b034-8a445bc56b83)
 
+---
+
+## Authors
+
+- [Charlie](https://github.com/Clarrainl) 
+- [Javi](https://github.com/j-albo) 
+- [Mau](https://github.com/Mauweberla) 
+
+*This project was developed as part of the Master in Robotics and Advanced Construction (MRAC), Term II, 2024/25.*
+
+---
 
